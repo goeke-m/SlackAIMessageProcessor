@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace SlackAIMessageProcessor
+namespace SlackAIMessageProcessor.Messages
 {
     public class AIMessage
     {

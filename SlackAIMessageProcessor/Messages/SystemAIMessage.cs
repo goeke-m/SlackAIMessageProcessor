@@ -1,4 +1,4 @@
-﻿namespace SlackAIMessageProcessor
+﻿namespace SlackAIMessageProcessor.Messages
 {
     public class SystemAIMessage : AIMessage
     {
