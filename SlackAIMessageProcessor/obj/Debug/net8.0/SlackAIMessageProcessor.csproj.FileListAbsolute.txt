@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\bin\Debug\net8.0\SlackAIMessageProcessor.exe
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\bin\Debug\net8.0\SlackAIMessageProcessor.deps.json
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\bin\Debug\net8.0\SlackAIMessageProcessor.runtimeconfig.json
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\bin\Debug\net8.0\SlackAIMessageProcessor.dll
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\bin\Debug\net8.0\SlackAIMessageProcessor.pdb
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.AssemblyInfo.cs
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.csproj.CopyComplete
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.dll
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\refint\SlackAIMessageProcessor.dll
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.pdb
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\SlackAIMessageProcessor.genruntimeconfig.cache
+C:\Users\User\source\repos\SlackAIMessageProcessor\SlackAIMessageProcessor\obj\Debug\net8.0\ref\SlackAIMessageProcessor.dll
